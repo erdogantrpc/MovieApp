@@ -1,0 +1,25 @@
+PODS:
+  - Alamofire (5.6.2)
+  - AlamofireImage (4.2.0):
+    - Alamofire (~> 5.4)
+  - PromisedFuture (1.0.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage (~> 4.1)
+  - PromisedFuture
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - PromisedFuture
+
+SPEC CHECKSUMS:
+  Alamofire: d368e1ff8a298e6dde360e35a3e68e6c610e7204
+  AlamofireImage: 34a2d90b0e5fe6a5605f85ae4b7b01e784c60192
+  PromisedFuture: 15ab3542f9d9c9d62886e2228c606a3e0fd16ccd
+
+PODFILE CHECKSUM: 847b78c805e5917dbb23a71445a47acf5e39a6b0
+
+COCOAPODS: 1.11.2
